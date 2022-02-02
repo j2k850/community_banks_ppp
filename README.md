@@ -88,14 +88,53 @@ Furthermore, this study shows that community banks are still using relationshipl
 
 ## References
 
-Beer, T. (2020).Minority-owned small businesses struggle to gain equal access to ppp loanmoney.https://www.forbes.com/sites/tommybeer/2020/05/18/minority-%20owned-small-businesses-struggle-to-gain-equal-access-to-ppp-loan-%20money/?sh=66237cd05de3
+Beer, T. (2020).Minority-owned small businesses struggle to gain equal access to ppp loan money.https://www.forbes.com/sites/tommybeer/2020/05/18/minority-%20owned-small-businesses-struggle-to-gain-equal-access-to-ppp-loan-%20money/?sh=66237cd05de3
 
 Bowman, M. (2019). Community banks rise to the challenge.The Federal Reserve System 2019.
 
-Carlson, P. (2021). Don’t (community) bank on it: How the current regulatory frameworkand new federal regulations threaten the u.s. community banking industry.University of Pittsburgh law review,82, 435–458.
+Carlson, P. (2021). Don’t (community) bank on it: How the current regulatory framework and new federal regulations threaten the u.s. community banking industry.University of Pittsburgh law review,82, 435–458.
 
 Cole, R., & Damm, J. (2020). How did the financial crisis affect small-business lending inthe united states?The Journal of Financial Research.
 
-ColorofChange. (2020, May).First covid-19 survey of black and latino small-businessowners reveals dire economic future.https://colorofchange.org/press_release/first-covid-19-survey-of-black-and-latino-small-business-owners-reveals-dire-economic-future/
+ColorofChange. (2020, May).First covid-19 survey of black and latino small-business owners reveals dire economic future.https://colorofchange.org/press_release/first-covid-19-survey-of-black-and-latino-small-business-owners-reveals-dire-economic-future/
 
-Costa, C. (2020, August).Minority entrepreneurs at a tipping point as black-owned banksdwindle in the u.s.https://www.cnbc.com/2020/08/25/minority-entrepreneurs-at-tipping-point-as-black-owned-banks-dwindle.htmlDeYoung, R. (2007). How the internet affects output and performance at communitybanks.Journal of Banking and Finance.Dua, A., D., M., Millán, I., & Stewart, S. (2020).Covid-19’s effect on minority-ownedsmall businesses in the united states.https://www.mckinsey.com/industries/public-and-social-sector/our-insights/covid-19s-effect-on-minority-owned-small-businesses-in-the-united-statesEmmons, W., & Yeager, T. (2004). Reducing the risk at community banks: Is it size orgeographic diversification that matters?Federal Reserve Bank of St. Louis
+Costa, C. (2020, August).Minority entrepreneurs at a tipping point as black-owned banksdwindle in the u.s.https://www.cnbc.com/2020/08/25/minority-entrepreneurs-at-tipping-point-as-black-owned-banks-dwindle.html
+
+DeYoung, R. (2007). How the internet affects output and performance at community banks. Journal of Banking and Finance.
+
+Dua, A., D., M., Millán, I., & Stewart, S. (2020).Covid-19’s effect on minority-ownedsmall businesses in the united states.https://www.mckinsey.com/industries/public-and-social-sector/our-insights/covid-19s-effect-on-minority-owned-small-businesses-in-the-united-states
+
+Emmons, W., & Yeager, T. (2004). Reducing the risk at community banks: Is it size orgeographic diversification that matters?Federal Reserve Bank of St. Louis
+
+Fairlie, R. (2020a). The impact of covid-19 on small business owners: Evidence from thefirst 3 months after widespread social-distancing restrictions. Journal of economics and management strategy,27
+
+Fairlie, R. (2020b). The impact of covid-19 on small business owners: Evidence from thefirst 3 months after widespread social-distancing restrictions.Journal of economics and management strategy,29, 727–740.
+
+G., F., & C., W. (2020). Determinants of profitability of community banks in the usa: Acost-frontier-based decomposition approach. Empirical Economics,60, 2969–2992.
+
+Gunther, J., & Klemme, K. (2012). Community banks withstand the storm.ederal ReserveBank of Dallas.
+
+Hanauer, M., Lytle, B., Summers, C., & Ziadeh, S. (2021). Community banks’ ongoing rolein the u.s. economy. FEDERAL RESERVE BANK OF KANSAS CITY.
+
+Hassan, M., & Karim, M. (2021). Weathering the covid19 storm: The case of community banks. University of New Orleans
+
+Howell, S. T., Kuchler, T., & Stroebel, J. (2021). Which lenders had the highest minorityshare among their payment protection program (ppp) loans? Working Paper
+
+Jung, M. K., Lee, K. M., Brown, J. D., & Earle, J. S. (2021). Black entrepreneurs, jobcreation, and financial constraints. IZA Institute of Labor Economics, 14403.
+
+Lux, M., & Greene, R. (2015). The state and fate of community banking. Harvard Kennedy School MOSSAVAR-RAHMANI Center for Business and Government,37
+
+M., H., B., L., C., S., & S., Z. (2021). Community banks’ ongoing role in the u.s. economy.Economic review (Kansas City)
+
+Nguyen, N., & Barth, J. (2020). Community banks vs. non-community banks: Where is the advantage in local small business funding? Atlantic Economic Journal.
+
+O’Connell, J., Van Dam, A., Gregg, A., & Fowers, A. (2020).More than half of emergencysmall-business funds went to larger businesses, new data shows.https://www.washingtonpost.com/business/2020/12/01/ppp-sba-data/
+
+Perkins, D. (2021). Banking policy issues in the 117th congress.Congressional Research Service.
+
+Richardson, J., Mitchell, B., & Edlebi, J. (2020).Ncrc paycheck protection plan preliminary analysis. https://ncrc.org/ncrc-paycheck-protection-plan-preliminary-analysis/
+
+Wang, J., & Zhang, D. (2021). The cost of banking deserts: Racial disparities in access toppp lenders and their implications.Working Paper.
+
+Zhou, L. (2020).The paycheck protection program failed many black-owned businesses.https://www.vox.com/2020/10/5/21427881/paycheck-protection-program-%20black-owned-businesses
+
