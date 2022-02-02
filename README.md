@@ -60,6 +60,9 @@ Hypothesis 1 (H1): Community banks provide a greater number and amount of Paymen
 
 To test this hypothesis, the following model was estimated
 
+
+![Hypothesis Equation](https://github.com/j2k850/community_banks_ppp/blob/master/PPP_Equation.png)
+
 CB which is a dummy variable, measures whether the bank is a community bank ornot, and is equal to 1 if it is. If H1 holds, B1 should be positive. We then split the sampleinto two subperiods: the year 2019 prior to the outbreak of COVID and the disbursementof PPP by banks, and the year 2020 during the epidemic and disbursement of the PPP bybanks.
 
 To test whether a community bank provides more small business funding in eachcounty, equation (1) is re-estimated for these subperiods. B1 is not expected to besignificantly different from zero before the outbreak of COVID and the disbursement ofPPP by banks, but will be significantly positive afterward, as previously discussed.
@@ -77,13 +80,24 @@ Figure 1, in the Appendix Section, depicts the difference in assets, liabilities
 
 ## Empirical Results
 
-Table 2 presents the results for Hypothesis 1 for the period 2019 to 2020. Thedependent variables are the natural logarithm of one plus number of Payment ProtectionProgram loans originated by a bank in Columns (1) to (3) and the natural logarithm of oneplus dollar amount of Payment Protection Program loans originated by a bank in Columns(4) to (6). The results of the OLS regressions are shown in columns (1) and (4). The fixedentity effect regressions are shown in columns (2) and (5). The time effects of regressionsare shown in columns (3) and (6). All regressions include bank control variables and areclustered at the year level. Columns (1) to (6) show results in that community banks, onaverage, provided significantly more and a larger dollar amount of Payment ProtectionProgram loans than non- community banks. This is represented by the CB variable. Theseresults indicate that community banks provide more small business loans thannon-community banks based on the number of PPP loans and the dollar amount during the crisis.
+Table 2 presents the results for Hypothesis 1 for the period 2019 to 2020. Thedependent variables are the natural logarithm of one plus number of Payment ProtectionProgram loans originated by a bank in Columns (1) to (3) and the natural logarithm of oneplus dollar amount of Payment Protection Program loans originated by a bank in Columns(4) to (6). The results of the OLS regressions are shown in columns (1) and (4). The fixedentity effect regressions are shown in columns (2) and (5). The time effects of regressionsare shown in columns (3) and (6). All regressions include bank control variables and areclustered at the year level. Columns (1) to (6) show results in that community banks, onaverage, provided significantly more and a larger dollar amount of Payment Protection Program loans than non- community banks. This is represented by the CB variable. Theseresults indicate that community banks provide more small business loans thannon-community banks based on the number of PPP loans and the dollar amount during the crisis.
 
 ## Conclusions
 
 Based on the study, we can conclude that during the period 2019-2020, communitybanks provided small businesses with more PPP loans than noncommunity banks.According to the evidence, community banks provide more small business loans, both interms of volume and dollar amount.
 
 Furthermore, this study shows that community banks are still using relationshiplending to fund small businesses when they have a presence in the communities where thesmall businesses are located. In terms of public policy, the results indicate that communitybanks remain important because they provide valuable support to small businesses in theUnited States.
+
+## Appendix
+
+![Assets Liability Dependency Equation](https://github.com/j2k850/community_banks_ppp/blob/master/assets_liab_dep_eqtot_commbank.png)
+
+![PPP Analysis Descriptive Statistics](https://github.com/j2k850/community_banks_ppp/blob/master/PPP_Analysis_Descriptive_Stats.png)
+
+![PPP Analysis Regressions](https://github.com/j2k850/community_banks_ppp/blob/master/PPP_Analysis_Regressions.png)
+
+![PPP_Analysis_Var_Definitions](https://github.com/j2k850/community_banks_ppp/blob/master/PPP_Analysis_Var_Definitions.png)
+
 
 
 ## References
