@@ -61,7 +61,7 @@ Hypothesis 1 (H1): Community banks provide a greater number and amount of Paymen
 To test this hypothesis, the following model was estimated
 
 
-![Hypothesis Equation](https://github.com/j2k850/community_banks_ppp/blob/master/PPP_Equation.png)
+![Hypothesis Equation](https://github.com/j2k850/community_banks_ppp/blob/main/PPP_Equation.png)
 
 CB which is a dummy variable, measures whether the bank is a community bank ornot, and is equal to 1 if it is. If H1 holds, B1 should be positive. We then split the sampleinto two subperiods: the year 2019 prior to the outbreak of COVID and the disbursementof PPP by banks, and the year 2020 during the epidemic and disbursement of the PPP bybanks.
 
@@ -90,13 +90,13 @@ Furthermore, this study shows that community banks are still using relationshipl
 
 ## Appendix
 
-![Assets Liability Dependency Equation](https://github.com/j2k850/community_banks_ppp/blob/master/assets_liab_dep_eqtot_commbank.png)
+![Assets Liability Dependency Equation](https://github.com/j2k850/community_banks_ppp/blob/main/assets_liab_dep_eqtot_commbank.png)
 
-![PPP Analysis Descriptive Statistics](https://github.com/j2k850/community_banks_ppp/blob/master/PPP_Analysis_Descriptive_Stats.png)
+![PPP Analysis Descriptive Statistics](https://github.com/j2k850/community_banks_ppp/blob/main/PPP_Analysis_Descriptive_Stats.png)
 
-![PPP Analysis Regressions](https://github.com/j2k850/community_banks_ppp/blob/master/PPP_Analysis_Regressions.png)
+![PPP Analysis Regressions](https://github.com/j2k850/community_banks_ppp/blob/main/PPP_Analysis_Regressions.png)
 
-![PPP_Analysis_Var_Definitions](https://github.com/j2k850/community_banks_ppp/blob/master/PPP_Analysis_Var_Definitions.png)
+![PPP_Analysis_Var_Definitions](https://github.com/j2k850/community_banks_ppp/blob/main/PPP_Analysis_Var_Definitions.png)
 
 
 
